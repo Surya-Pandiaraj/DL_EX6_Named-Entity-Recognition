@@ -43,8 +43,6 @@ Train the model using the training data.
 Evaluate the model performance on test data.
 
 ## PROGRAM:
-### Name: DHANUJA M
-### Register Number: 212224230057
 
 ```python
 class BiLSTMTagger(nn.Module):
